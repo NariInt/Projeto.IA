@@ -1,0 +1,113 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2em;
+    text-justify: auto;
+}
+h1, h2, h3{
+    font-size: 25px;
+    text-align: center;
+}
+
+body{
+    background-color:#012030;
+}
+header{
+    background-color: #024959;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 60px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.375);  
+    font-size: 2em;
+}
+#head{
+    background-color:#025951;
+    
+}
+
+div a{
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+}
+div a:hover{
+    background-color: #038C3E;
+    padding: 5px;
+    border-radius: 2px;
+}
+#color1 p{
+    backdrop-filter: blur(10px);
+    padding: 2em;
+}
+#color1{
+    background: url(imagens/img2.jpg) fixed center center;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 2em;
+    
+
+}
+#color2{
+    background: url(imagens/img4.jpg) fixed center center;
+    background-size: cover;
+    padding: 2em;
+    border-radius: 10px;
+
+    
+}
+#color2 p{ 
+    padding: 2em;
+    backdrop-filter: blur(10px);
+}
+#color3{
+    background: url(imagens/img5.jpg) fixed center center;
+    background-size: cover;
+    padding: 2em;
+    border-radius: 10px;
+
+}
+#color3 p{
+    padding: 2em;
+    backdrop-filter: blur(10px);
+}
+
+#color5{
+    
+    background: url(imagens/img7.jpg) fixed center center;
+    background-size: cover;
+    padding: 2em;
+    border-radius: 10px;
+
+}
+#color5 p{
+    padding: 2em;
+    backdrop-filter: blur(10px);
+}
+main{
+    background-color: #0120309a;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    box-shadow: 5px 5px 8px  8px rgba(0, 0, 0, 0.1);
+    color: white;
+
+
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(16, 158, 0);
+    text-align: center;
+}
+footer a{
+    color: white;
+    
+}
+#img1{
+    background-image: url(imagens/Imagem\ do\ WhatsApp\ de\ 2023-09-20\ à\(s\)\ 23.27.35.jpg);
+    
+}
+.img-fundo{
+    background-color: rgba(0, 0, 0, 0.305);
+}
