@@ -28,12 +28,12 @@ header{
     
 }
 
-div a{
+nav a{
     margin: 5px;
     text-decoration: none;
     color: white;
 }
-div a:hover{
+ nav a:hover{
     background-color: #038C3E;
     padding: 5px;
     border-radius: 2px;
