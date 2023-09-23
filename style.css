@@ -87,13 +87,14 @@ div a:hover{
     backdrop-filter: blur(10px);
 }
 main{
+    min-width: 300px;
+    max-width: 800px;
     background-color: #0120309a;
     padding: 10px;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: auto;
     box-shadow: 5px 5px 8px  8px rgba(0, 0, 0, 0.1);
     color: white;
-    min-width: 400px;
+    
 
 
 }
